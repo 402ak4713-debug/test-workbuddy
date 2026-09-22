@@ -1,4 +1,3 @@
-```
 # WorkBuddy 对接 GitHub 常用指令集
 > 仓库示例名：`test-workbuddy`，使用时可替换为你的仓库名称
 > 前提：已完成WorkBuddy GitHub连接器授权
@@ -110,5 +109,3 @@
 1. 日常查看仓库信息，使用**只读权限**即可，安全性更高
 2. 写文件、创建PR、提交代码，才需要开启读写授权
 3. 撤销授权：GitHub头像 → Settings → Applications → Authorized OAuth Apps → WorkBuddy → Revoke
-```
-新增 WorkBuddy 指令清单文档 
